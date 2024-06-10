@@ -1,3 +1,17 @@
-The algorithm continuously evaluates and scores open source software projects in supported package managers based on their impact and value to the OSS ecosystem.
+# Dayjs Business Time Advanced
 
-Simple support tea in reguide template can increase for an open source software project with an increasing number of dependents
+
+
+## Docs
+  
+
+* ### [New Version](https://edai-git.github.io/business-time-advanced)
+* ### [Old Version (v. 1.0.4)](https://github.com/rankmyapp/dayjs-business-time)
+
+
+
+## Support
+  
+
+ <a href="https://www.buymeacoffee.com/edaicoffee" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+
